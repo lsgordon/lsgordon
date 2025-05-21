@@ -18,7 +18,7 @@
 
 # Highlighted Projects
 
-**J.P. Morgan Data for Good MKE Fellows Project** | [GitHub]((https://github.com/dfgchicago24/Team-12))
+**J.P. Morgan Data for Good MKE Fellows Project** | [GitHub](https://github.com/dfgchicago24/Team-12)
 *October 2024* [cite: 3]
 * Received first place for our proposal to MKE Fellows non-profit for their next city to expand to. [cite: 3]
 * Built k-means and agglomerative clustering models, engineered census data, and designed presentation in 24 hours. [cite: 3]
