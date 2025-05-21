@@ -24,7 +24,7 @@
 * *Technologies: Pandas, Python, Plotly* 
 
 **D3 Track Times** | [GitHub](https://github.com/lsgordon/D3TrackTimes)
-*January 2024 Present*
+*May 2024*
 * Built dual MongoDB/PSQL database of over 300K track records, which are queried to find percentile rank in D3. 
 * Used by several D3 teams in PA area to aid with recruiting and modeling expected times. 
 * *Technologies: HTML, CSS, JS, PSQL, Mongo* 
