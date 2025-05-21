@@ -24,7 +24,7 @@
 * Built k-means and agglomerative clustering models, engineered census data, and designed presentation in 24 hours. [cite: 3]
 * *Technologies: Pandas, Python, Plotly* [cite: 3]
 
-**D3 Track Times** | [GitHub](https://github.com/lsgordon/D3_Track_Times)
+**D3 Track Times** | [GitHub](https://github.com/lsgordon/D3TrackTimes)
 *January 2024 Present* [cite: 4]
 * Built dual MongoDB/PSQL database of over 300K track records, which are queried to find percentile rank in D3. [cite: 4]
 * Used by several D3 teams in PA area to aid with recruiting and modeling expected times. [cite: 4]
