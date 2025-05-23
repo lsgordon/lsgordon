@@ -6,7 +6,8 @@
 
 ## Highlighted Projects
 
-**BirdCLEF+ 2025: Species Classification w/ YamNET** | [GitHub](https://github.com/lsgordon/BirdCLEFPlus_Yamnet_2025)
+
+**BirdCLEF+ 2025: Species Classification w/ YamNET** | [GitHub](https://github.com/lsgordon/ANN-Final-Project)
 *May 2025*
 * Developed a system for classifying 206 endangered animal species using audio data for the BirdCLEF 2025 competitions.
 * Implemented data preprocessing pipelines, including sample rate standardization (32kHz to 22kHz for YAMNet).
