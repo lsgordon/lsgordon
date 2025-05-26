@@ -3,6 +3,8 @@
 
 [lsgordon@seas.upenn.edu](mailto:lsgordon@seas.upenn.edu) | [github.com/lsgordon](https://github.com/lsgordon)
 
+[![wakatime](https://wakatime.com/badge/user/8b342d6c-b796-4efc-8319-ecf5ff600457.svg)](https://wakatime.com/@8b342d6c-b796-4efc-8319-ecf5ff600457)
+
 ---
 
 ## Highlighted Projects
