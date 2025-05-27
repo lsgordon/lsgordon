@@ -14,9 +14,16 @@
 
 **BirdCLEF+ 2025: Species Classification w/ YamNET** | [GitHub](https://github.com/lsgordon/ANN-Final-Project)
 *May 2025*
-* Developed a system for classifying 206 endangered animal species using audio data for the BirdCLEF 2025 competitions.
-* Implemented data preprocessing pipelines, including sample rate standardization (32kHz to 22kHz for YAMNet).
-* *Technologies: Keras, Tensorflow, Sklearn*
+* Developed a robust system for classifying 206 endangered and under-studied animal species (including birds, amphibians, mammals, and insects) from the Middle Magdalena Valley of Colombia using audio recordings for the BirdCLEF 2025 competition.
+* Engineered a comprehensive data preprocessing pipeline: converted audio files to mono, standardized sample rates by downsampling to 22kHz (compatible with YAMNet) using `scipy.signal.resample`, and implemented custom functions (e.g., `audio_data_unfucker`) for data cleaning and handling irregularities.
+* Created fixed-length audio representations (1000 samples per segment) by padding shorter sequences and chunking/padding longer ones, preparing data for consistent model input.
+* Utilized the pre-trained YAMNet model from TensorFlow Hub for feature extraction, transforming raw audio segments into 1024-dimensional embeddings.
+* Addressed significant class imbalance in the BirdCLEF 2025 dataset by strategically downsampling processed audio segments, limiting each of the 206 classes to a maximum of 1000 samples for training the final model.
+* Designed, built, and trained a deep neural network using the Keras functional API. The architecture included an input layer for 1024-dimensional embeddings, multiple Dense layers (512, 256, 128 units) with ReLU activations, Layer Normalization for improved stability, Dropout (0.2, 0.3) for regularization, and a residual connection, leading to a Softmax output layer for multi-class classification.
+* Optimized model training by employing EarlyStopping (monitoring `val_loss` with a patience of 5 epochs), which helped in preventing overfitting and restoring the best performing model weights.
+* Achieved a test accuracy of approximately 71% and a test loss of 1.14 on the classification of 206 species.
+* Leveraged parallel processing with `concurrent.futures` to expedite the audio data reading and initial preprocessing stages.
+* *Technologies: Python, Keras, TensorFlow, TensorFlow Hub, Scikit-learn, Pandas, NumPy, SoundFile, SciPy, Matplotlib, tqdm, concurrent.futures.*
 
 **Big Data Final Project** | [GitHub](https://github.com/lsgordon/big-data-final-project)
 * April 2025
