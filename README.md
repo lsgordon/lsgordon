@@ -41,7 +41,7 @@ My name is Leo, I'm a current 1st year grad student at UPenn, and a current seni
 * Designed Hidden Markov class from scratch and applied it to predict \$AAPL stock price.
 * *Technologies: Pandas, Refinitiv, Python*
 
-**J.P. Morgan Data for Good MKE Fellows Project** | [GitHub](https://github.com/dfgchicago24/Team-12)
+**J.P. Morgan Data for Good MKE Fellows Project** | [Pres Link](https://www.canva.com/design/DAGSr93W7hU/zZx3u7nRwaTn4fZh08GQDQ/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)
 *October 2024* 
 * Received first place for our proposal to MKE Fellows non-profit for their next city to expand to.
 * * Built k-means and agglomerative clustering models, engineered census data, and designed presentation in 24 hours. 
