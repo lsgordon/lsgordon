@@ -10,11 +10,20 @@
 ## Highlighted Projects
 
 
+
+
 **BirdCLEF+ 2025: Species Classification w/ YamNET** | [GitHub](https://github.com/lsgordon/ANN-Final-Project)
 *May 2025*
 * Developed a system for classifying 206 endangered animal species using audio data for the BirdCLEF 2025 competitions.
 * Implemented data preprocessing pipelines, including sample rate standardization (32kHz to 22kHz for YAMNet).
 * *Technologies: Keras, Tensorflow, Sklearn*
+
+**Big Data Final Project** | [GitHub](https://github.com/lsgordon/big-data-final-project)
+* April 2025
+* Developed a model to differentiate between real and fake news articles using linguistic features.
+* Engineered features by calculating various text statistics (e.g., Coleman-Liau index, SMOG index, average sentence length, subjectivity, sentiment, word count, syllable count, Flesch reading ease, and Flesch-Kincaid grade level).
+* Implemented Logistic Regression, XGBoost, LSTM, and TF-IDF classification models, evaluating their performance with accuracy, F1-score, and confusion matrices. Accuracy on the best models was 99%.
+* *Technologies: Python, Pandas, Statsmodels, Textstat, TextBlob, Scikit-learn, XGBoost, Matplotlib, Seaborn, SHAP*
 
 **Hidden Markov Model For Stock Prediction** | [GitHub](https://github.com/lsgordon/HMM_StockPrediction)
 *Jan 2025*
