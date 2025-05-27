@@ -5,6 +5,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/8b342d6c-b796-4efc-8319-ecf5ff600457.svg)](https://wakatime.com/@8b342d6c-b796-4efc-8319-ecf5ff600457)
 
+Hello!
+
+My name is Leo, I'm a current 1st year grad student at UPenn, and a current senior at Haverford College. I'm interesting in Machine Learning, Data Engineering, and Data Science. These projects are the best examples of my work. Feel free to reach out with any questions you have.
+
 ---
 
 ## Highlighted Projects
@@ -15,7 +19,7 @@
 **BirdCLEF+ 2025: Species Classification w/ YamNET** | [GitHub](https://github.com/lsgordon/ANN-Final-Project)
 *May 2025*
 * Developed a robust system for classifying 206 endangered and under-studied animal species (including birds, amphibians, mammals, and insects) from the Middle Magdalena Valley of Colombia using audio recordings for the BirdCLEF 2025 competition.
-* Engineered a comprehensive data preprocessing pipeline: converted audio files to mono, standardized sample rates by downsampling to 22kHz (compatible with YAMNet) using `scipy.signal.resample`, and implemented custom functions (e.g., `audio_data_unfucker`) for data cleaning and handling irregularities.
+* Engineered a comprehensive data preprocessing pipeline: converted audio files to mono, standardized sample rates by downsampling to 22kHz (compatible with YAMNet) using `scipy.signal.resample`, and implemented custom functionsfor data cleaning and handling irregularities.
 * Created fixed-length audio representations (1000 samples per segment) by padding shorter sequences and chunking/padding longer ones, preparing data for consistent model input.
 * Utilized the pre-trained YAMNet model from TensorFlow Hub for feature extraction, transforming raw audio segments into 1024-dimensional embeddings.
 * Addressed significant class imbalance in the BirdCLEF 2025 dataset by strategically downsampling processed audio segments, limiting each of the 206 classes to a maximum of 1000 samples for training the final model.
