@@ -36,7 +36,7 @@ My name is Leo, I'm a current 1st year grad student at UPenn, and a current seni
 * Implemented Logistic Regression, XGBoost, LSTM, and TF-IDF classification models, evaluating their performance with accuracy, F1-score, and confusion matrices. Accuracy on the best models was 99%.
 * *Technologies: Python, Pandas, Statsmodels, Textstat, TextBlob, Scikit-learn, XGBoost, Matplotlib, Seaborn, SHAP*
 
-**Hidden Markov Model For Stock Prediction** | [GitHub](https://github.com/lsgordon/HMM_StockPrediction)
+**Hidden Markov Model For Stock Prediction** | [GitHub](https://github.com/lsgordon/HMM-For-Stock-Prediction)
 *Jan 2025*
 * Designed Hidden Markov class from scratch and applied it to predict \$AAPL stock price.
 * *Technologies: Pandas, Refinitiv, Python*
