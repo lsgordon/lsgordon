@@ -5,6 +5,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/8b342d6c-b796-4efc-8319-ecf5ff600457.svg)](https://wakatime.com/@8b342d6c-b796-4efc-8319-ecf5ff600457)
 
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsgordon)](https://github.com/lsgordon/github-readme-stats)
+
 Hello!
 
 My name is Leo, I'm a current 1st year grad student at UPenn, and a current senior at Haverford College. I'm interesting in Machine Learning, Data Engineering, and Data Science. These projects are the best examples of my work. Feel free to reach out with any questions you have.
