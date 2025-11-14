@@ -16,10 +16,11 @@ My name is Leo, I'm a current 1st year grad student at UPenn, and a current seni
 *Fall 2025*
 * Building a full-stack distrubuted cloud storage email application
 * Engineering distributed agentic service in C++
+* If you know, you know
 
 
 
-**My Undergrad Thesis! Automated Theorem Proving: Language Model Based Approaches to Tackle Undergraduate \& High School Competitions in Mathematics (Full Draft)** | [GitHub](https://github.com/lsgordon/Thesis)
+**Automated Theorem Proving: Language Model Based Approaches to Tackle Undergraduate \& High School Competitions in Mathematics (Full Draft)** | [GitHub](https://github.com/lsgordon/Thesis)
 *Fall 2025*
 * Conducted a comprehensive literature review of Large Language Model (LLM) applications in Automated Theorem Proving (ATP).
 * Proposed a taxonomy of current approaches, analyzing systems from fine-tuned provers (e.g., Goedel-Prover) to complex neuro-symbolic architectures (e.g., Hilbert, AlphaProof).
