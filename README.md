@@ -7,7 +7,7 @@
 
 Hello!
 
-My name is Leo, I'm a current 1st year grad student at UPenn, and a current senior at Haverford College. I'm interesting in Machine Learning, Data Engineering, and Data Science. These projects are the best examples of my work. Feel free to reach out with any questions you have.
+My name is Leo, I'm a current 1st year grad student at UPenn, and a current senior at Haverford College. I'm interesting in Machine Learning, and Distributed Systems. These projects are the best examples of my work. Feel free to reach out with any questions you have.
 
 ---
 
