@@ -12,7 +12,13 @@ My name is Leo, I'm a current 1st year grad student at UPenn, and a current seni
 ---
 
 ## Highlighted Projects
-**My Thesis: ** | [GitHub](https://github.com/lsgordon/Thesis)
+**My Thesis:** | [GitHub](https://github.com/lsgordon/Thesis)
+*Fall 2025*
+* Conducted a comprehensive literature review of Large Language Model (LLM) applications in Automated Theorem Proving (ATP).
+* Proposed a taxonomy of current approaches, analyzing systems from fine-tuned provers (e.g., Goedel-Prover) to complex neuro-symbolic architectures (e.g., Hilbert, AlphaProof).
+* Critically evaluated claims of superhuman performance on olympiad benchmarks (AIME, IMO, PutnamBench), focusing on the impact of data contamination.
+* Assessed systemic issues in the field, including the validity of benchmarks like MiniF2F and widespread reproducibility challenges.
+* Identified and proposed future research directions for developing more robust evaluation methods and advancing genuine mathematical reasoning.
 
 
 **BirdCLEF+ 2025: Species Classification w/ YamNET** | [GitHub](https://github.com/lsgordon/ANN-Final-Project)
