@@ -12,8 +12,7 @@ My name is Leo, I'm a current 1st year grad student at UPenn, and a current seni
 ---
 
 ## Highlighted Projects
-
-
+**My Thesis: ** | [GitHub](https://github.com/lsgordon/Thesis)
 
 
 **BirdCLEF+ 2025: Species Classification w/ YamNET** | [GitHub](https://github.com/lsgordon/ANN-Final-Project)
