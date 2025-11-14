@@ -12,6 +12,13 @@ My name is Leo, I'm a current 1st year grad student at UPenn, and a current seni
 ---
 
 ## Highlighted Projects
+**CIS 5050 FINAL PROJECT: PennCloud** | [Email me for report!](mailto:lsgordon@seas.upenn.edu)
+*Fall 2025*
+* Building a full-stack distrubuted cloud storage email application
+* Engineering distributed agentic service in C++
+
+
+
 **My Undergrad Thesis! Automated Theorem Proving: Language Model Based Approaches to Tackle Undergraduate \& High School Competitions in Mathematics (Full Draft)** | [GitHub](https://github.com/lsgordon/Thesis)
 *Fall 2025*
 * Conducted a comprehensive literature review of Large Language Model (LLM) applications in Automated Theorem Proving (ATP).
