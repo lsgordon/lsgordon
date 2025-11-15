@@ -14,9 +14,11 @@ My name is Leo, I'm a current 1st year grad student at UPenn, and a current seni
 ## Highlighted Projects
 **CIS 5050 FINAL PROJECT: PennCloud** | [Email me for report!](mailto:lsgordon@seas.upenn.edu)
 *Fall 2025*
-* Building a full-stack distrubuted cloud storage email application
-* Engineering distributed agentic service in C++
-* If you know, you know
+* Developed a central gRPC API gateway in C++ to serve as a load-balancing, client-facing endpoint for a distributed backend.
+* Engineered an event-driven agentic loop that autonomously fetches user context (manifests) from a KV store, injects it into a system prompt, and orchestrates LLM tool-calling.
+* Implemented a distributed, multi-threaded key-value store from scratch, featuring a select-based event loop, pthread worker pool, and gRPC interface.
+* Built a raw-socket C++ HTTP client from the ground up to POST JSON payloads to downstream llama.cpp (OpenAI-compatible) model endpoints.
+* Leveraged gRPC (with bidirectional streaming for chat) and Protobuf for all high-performance, inter-service communication between the proxy and the KV store.
 
 
 
