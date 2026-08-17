@@ -9,6 +9,8 @@ Hello!
 
 My name is Leo, I'm a current grad student at UPenn studying ML. I'm interesting in Machine Learning, and Distributed Systems. These projects are the best examples of my work. Feel free to reach out with any questions you have.
 
+Incoming at Palantir
+
 ---
 
 ## Highlighted Projects
