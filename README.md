@@ -4,14 +4,6 @@
 [lsgordon@seas.upenn.edu](mailto:lsgordon@seas.upenn.edu) | [github.com/lsgordon](https://github.com/lsgordon)
 
 [![wakatime](https://wakatime.com/badge/user/8b342d6c-b796-4efc-8319-ecf5ff600457.svg)](https://wakatime.com/@8b342d6c-b796-4efc-8319-ecf5ff600457)
-
-Hello!
-
-My name is Leo, I'm a current grad student at UPenn studying ML. I'm interesting in Machine Learning, and Distributed Systems. These projects are the best examples of my work. Feel free to reach out with any questions you have.
-
-I've definitely slowed down a bit as of recent with working on things here. Please get in touch if you have any qs.
-
-
 ---
 
 ## Highlighted Projects
